@@ -1,0 +1,8 @@
+{
+  "name": "Industrial Sentinel",
+  "description": "A high-authority industrial permit-to-work and safety monitoring dashboard with a high-fidelity frosted glass aesthetic and technical precision.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
